@@ -1,8 +1,8 @@
+beautifulsoup4
+requests
 pandas
 numpy
 scikit-learn
 PySastrawi
-beautifulsoup4
 openpyxl
-requests
 lxml
