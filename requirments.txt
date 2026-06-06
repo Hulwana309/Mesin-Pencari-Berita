@@ -1,4 +1,3 @@
-streamlit
 pandas
 numpy
 scikit-learn
@@ -6,5 +5,4 @@ PySastrawi
 beautifulsoup4
 openpyxl
 requests
-sentence-transformers
 lxml
